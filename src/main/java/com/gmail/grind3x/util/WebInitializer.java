@@ -1,4 +1,4 @@
-package com.gmail.grind3x;
+package com.gmail.grind3x.util;
 
 import org.springframework.web.WebApplicationInitializer;
 import org.springframework.web.context.support.AnnotationConfigWebApplicationContext;

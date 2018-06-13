@@ -1,4 +1,4 @@
-package com.gmail.grind3x;
+package com.gmail.grind3x.util;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.ComponentScan;

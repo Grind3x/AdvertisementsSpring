@@ -1,4 +1,4 @@
-package com.gmail.grind3x;
+package com.gmail.grind3x.controller;
 
 import com.gmail.grind3x.model.Catalog;
 import org.springframework.http.HttpHeaders;
