@@ -82,12 +82,11 @@
         </c:if>
 
         <c:if test="${advertisements eq null}">
-            There is nothinп to show yet>
+            There is nothing to show yet!>
 
         </c:if>
 
     </div>
-
 
     <br>
     <button type="button" onclick="goBack()">Go back!</button>
