@@ -60,7 +60,7 @@
     <div align="center">
 
         <form action="/add_xml" enctype="multipart/form-data" method="POST">
-            Photo: <input type="file" name="file">
+            XML File: <input type="file" name="file">
             <input type="submit" />
         </form>
     </div>
